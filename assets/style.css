@@ -1,9 +1,12 @@
+.container{
+    align-content: center;
+}
 .jumbotron-fluid{
     text-align: center;
     background-color: red;
 }
 h4{
-    color: blue;
+    color:black;
     background-color: blue;
 }
 .card-header{
