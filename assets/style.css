@@ -1,0 +1,11 @@
+.jumbotron-fluid{
+    text-align: center;
+    background-color: red;
+}
+h4{
+    color: blue;
+    background-color: blue;
+}
+.card-header{
+    background-color: blue;
+}
